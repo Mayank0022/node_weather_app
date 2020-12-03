@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can check out my app on https://mayank-web-application.herokuapp.com/
+You can check out my app on [editor on GitHub](https://mayank-web-application.herokuapp.com/)
 
 You can use the [editor on GitHub](https://github.com/Mayank0022/node_weather_app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
